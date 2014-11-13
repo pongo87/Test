@@ -1,0 +1,23 @@
+C:\Y_World\code\MyWebSite\WuLiu\WuLiu\bin\WuLiu.dll
+C:\Y_World\code\MyWebSite\WuLiu\WuLiu\bin\WuLiu.pdb
+C:\Y_World\code\MyWebSite\WuLiu\WuLiu\obj\Debug\WuLiu.csprojResolveAssemblyReference.cache
+C:\Y_World\code\MyWebSite\WuLiu\WuLiu\obj\Debug\WuLiu.dll
+C:\Y_World\code\MyWebSite\WuLiu\WuLiu\obj\Debug\WuLiu.pdb
+F:\BJ\VS CODE\WuLiu\WuLiu\bin\WuLiu.dll
+F:\BJ\VS CODE\WuLiu\WuLiu\bin\WuLiu.pdb
+F:\BJ\VS CODE\WuLiu\WuLiu\obj\Debug\WuLiu.dll
+F:\BJ\VS CODE\WuLiu\WuLiu\obj\Debug\WuLiu.pdb
+C:\Y_World\code\WuLiu\WuLiu\WuLiu\bin\WuLiu.dll
+C:\Y_World\code\WuLiu\WuLiu\WuLiu\bin\WuLiu.pdb
+C:\Y_World\code\WuLiu\WuLiu\WuLiu\obj\Debug\WuLiu.csprojResolveAssemblyReference.cache
+C:\Y_World\code\WuLiu\WuLiu\WuLiu\obj\Debug\WuLiu.dll
+C:\Y_World\code\WuLiu\WuLiu\WuLiu\obj\Debug\WuLiu.pdb
+F:\BJ\VS CODE\WuLiu\WuLiu\WuLiu\bin\WuLiu.dll
+F:\BJ\VS CODE\WuLiu\WuLiu\WuLiu\bin\WuLiu.pdb
+F:\BJ\VS CODE\WuLiu\WuLiu\WuLiu\obj\Debug\WuLiu.dll
+F:\BJ\VS CODE\WuLiu\WuLiu\WuLiu\obj\Debug\WuLiu.pdb
+C:\Y_World\code\WuLiu\WuLiu\WuLiu\WuLiu\bin\WuLiu.dll
+C:\Y_World\code\WuLiu\WuLiu\WuLiu\WuLiu\bin\WuLiu.pdb
+C:\Y_World\code\WuLiu\WuLiu\WuLiu\WuLiu\obj\Debug\WuLiu.csprojResolveAssemblyReference.cache
+C:\Y_World\code\WuLiu\WuLiu\WuLiu\WuLiu\obj\Debug\WuLiu.dll
+C:\Y_World\code\WuLiu\WuLiu\WuLiu\WuLiu\obj\Debug\WuLiu.pdb
